@@ -1,4 +1,4 @@
-# Language Recognition Project using Dynamic Time Warping (DTW)
+# Language Recognition Project using MFCC and DTW
 
 This project implements a language recognition system that utilizes audio feature extraction and the Dynamic Time Warping (DTW) algorithm to identify spoken languages based on Mel-frequency cepstral coefficients (MFCC) extracted from audio files.
 
