@@ -16,5 +16,6 @@ The feature extraction code is designed to read audio files from specified direc
 % Define the base folder paths for feature extraction (train and test datasets)
 baseFolderPaths = {'C:\Users\burak\OneDrive\Belgeler\MATLAB\train', ...
                    'C:\Users\burak\OneDrive\Belgeler\MATLAB\test'};
+end
 
-> **Note**: The DTW function used in this project was adapted from [this GitHub repository](https://github.com/filip141/MFCC-Voice-Recognition/blob/master/DTW.m).
+**Note**: The DTW function used in this project was adapted from [this GitHub repository](https://github.com/filip141/MFCC-Voice-Recognition/blob/master/DTW.m).
