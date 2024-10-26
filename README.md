@@ -30,6 +30,6 @@ After running `main.m`, the system will process the audio files and provide lang
 
 Below is the confusion matrix that illustrates the model's performance:
 
-![Confusion Matrix](gallery/Confusion Matrix.png)
+![Confusion Matrix](gallery/Confusion_Matrix.png)
 
 Model accuracy: **0.81875**
