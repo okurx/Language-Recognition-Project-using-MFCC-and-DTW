@@ -17,6 +17,10 @@ The feature extraction code is designed to read audio files from specified direc
 % Define the base folder paths for feature extraction (train and test datasets)
 baseFolderPaths = {'C:\Users\burak\OneDrive\Belgeler\MATLAB\train', ...
                    'C:\Users\burak\OneDrive\Belgeler\MATLAB\test'};
-end
 
 
+Usage
+Clone the repository or download the project files to your local machine.
+Adjust the file paths in featureextraction.m and predict.m to match your directory structure.
+Run the main.m file to execute the language recognition system.
+After running main.m, the system will process the audio files and provide language recognition results based on the extracted features.
