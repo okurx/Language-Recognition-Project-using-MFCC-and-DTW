@@ -33,3 +33,6 @@ Below is the confusion matrix that illustrates the model's performance:
 ![Confusion Matrix](gallery/Confusion_Matrix.png)
 
 Model accuracy: **0.81875**
+
+## Contact
+For any questions or suggestions, contact me at [burak1837burak@gmail.com].
