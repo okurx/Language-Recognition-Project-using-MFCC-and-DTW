@@ -6,7 +6,8 @@ This project implements a language recognition system that utilizes audio featur
 
 - **MFCC Feature Extraction**: The project extracts MFCC features from audio files in specified languages (Spanish, Korean, Italian, and Chinese).
 - **Dynamic Time Warping**: Uses DTW for comparing the extracted features to recognize spoken languages.
-
+**Note**: The DTW function used in this project was adapted from [this GitHub repository](https://github.com/filip141/MFCC-Voice-Recognition/blob/master/DTW.m).
+  
 ### Feature Extraction
 
 The feature extraction code is designed to read audio files from specified directories and extract MFCC features. The extracted features are saved as `.mat` files for each language.
@@ -18,4 +19,4 @@ baseFolderPaths = {'C:\Users\burak\OneDrive\Belgeler\MATLAB\train', ...
                    'C:\Users\burak\OneDrive\Belgeler\MATLAB\test'};
 end
 
-**Note**: The DTW function used in this project was adapted from [this GitHub repository](https://github.com/filip141/MFCC-Voice-Recognition/blob/master/DTW.m).
+
