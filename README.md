@@ -19,7 +19,7 @@ baseFolderPaths = {'C:\Users\burak\OneDrive\Belgeler\MATLAB\train', ...
                    'C:\Users\burak\OneDrive\Belgeler\MATLAB\test'};
 
 
-Usage
+**Usage**:
 Clone the repository or download the project files to your local machine.
 Adjust the file paths in featureextraction.m and predict.m to match your directory structure.
 Run the main.m file to execute the language recognition system.
