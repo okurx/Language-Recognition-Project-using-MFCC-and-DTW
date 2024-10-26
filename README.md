@@ -25,3 +25,12 @@ Clone the repository or download the project files to your local machine.
 Adjust the file paths in `featureextraction.m` and `predict.m` to match your directory structure.  
 Run the `main.m` file to execute the language recognition system.  
 After running `main.m`, the system will process the audio files and provide language recognition results based on the extracted features.
+
+## Results
+
+Below is the confusion matrix that illustrates the model's performance:
+
+![Confusion Matrix](gallery/Confusion Matrix.png)
+
+Model accuracy: **0.81875**
+
